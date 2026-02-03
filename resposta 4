@@ -1,0 +1,3 @@
+let nome = "TemCarteira";
+let TemCarteira = true;
+console.log("Tem carteira é ",TemCarteira);

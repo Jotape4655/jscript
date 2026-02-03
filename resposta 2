@@ -1,0 +1,4 @@
+let AnoATual = "2025"
+let AnoNascimento = "2008"
+let idade = AnoATual - AnoNascimento
+console.log("Sua idade é: ",idade,)

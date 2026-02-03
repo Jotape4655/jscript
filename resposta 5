@@ -1,0 +1,6 @@
+let saldo = "0"
+let deposito = "200"
+let saque = "50"
+let saldo1 = saldo + deposito
+let saldo2 = saldo1 - saque
+console.log("Seu saldo final é : ",saldo2)

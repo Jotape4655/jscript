@@ -1,0 +1,5 @@
+let Cidade = "Aracaju"
+let Estado = "Sergipe"
+let País = "Brasil"
+
+console.log("Você está em",Cidade, "-" ,Estado,"," ,País,".")

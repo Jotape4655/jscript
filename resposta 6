@@ -1,0 +1,6 @@
+let NMatematica = 10
+let NPortugues = 5
+let NFisica = 7
+let Soma = NMatematica + NPortugues + NFisica
+let NFinal = Soma / 3
+console.log("Sua média final é: ",NFinal)
